@@ -30,7 +30,7 @@ data = {
             },
         ],
         "footer": {
-            "text": "Make by Project Aromatic"
+            "text": "作ったのはプロジェクトアロマ"
         }
     }]
 }
